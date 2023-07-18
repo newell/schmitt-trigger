@@ -1,6 +1,6 @@
 # Schmitt Trigger Oscillator
 
-A Schmitt Trigger oscillator is a type of electronic oscillator circuit used to generate continuous square wave signals at a desired frequency. It is widely used in applications such as digital systems, signal conditioning, and waveform generation.
+A [Schmitt Trigger oscillator](https://en.wikipedia.org/wiki/Schmitt_trigger#Use_as_an_oscillator) is a type of electronic oscillator circuit used to generate continuous square wave signals at a desired frequency. It is widely used in applications such as digital systems, signal conditioning, and waveform generation.
 
 The Schmitt Trigger oscillator utilizes a Schmitt Trigger, which is a bistable multivibrator with hysteresis, as its core component. Here's a general description of the Schmitt Trigger oscillator's operation:
 
